@@ -1,0 +1,12 @@
+.next/
+node_modules/
+.git/
+.DS_Store
+.vscode/
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.staging
+.gitattributes
